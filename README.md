@@ -2,7 +2,9 @@
 This repository contains a set of configuration files for text editors and IDEs
 used by Dasharo Team and their community.  
 
-## Available configurations  - [VS Code](/vscode) 
+## Available configurations
+
+- [VS Code](/vscode) 
 
 ## Contributions  
 Feel free to contribute the configuration of any editor that you use. You can
